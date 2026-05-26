@@ -261,5 +261,3 @@ Chen-Hong
 國立中正大學 電訊傳播研究所  
 National Chung Cheng University
 
-GitHub：  
-https://github.com/scuranger0625/Helmet-Detection-System
